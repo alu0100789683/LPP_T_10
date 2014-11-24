@@ -1,0 +1,12 @@
+lib/exam/examen.rb 8f2f712cd6364343c3b32f249ff41fdfc1b877d1
+lib/nodelist/list.rb 170d4b307d5c54ad8b7993b37cbe7d32472c9978
+lib/interfaz/interfaz.rb c2e5c87b144bab235007e8f73ca043e1e67a1f44
+lib/question/trueOrFalse.rb 9c021de99d63779ebdf5bcdd5c4d74509e06b547
+lib/question/simpleChoice.rb 166739a9572aa22ce2185393e2fa526847eab71e
+lib/question/questionFather.rb 99c0e479d5a3b1cc25c20786df92ec0852df88e7
+lib/question/trueOrFalse/base.rb 9c233611161b1d6a0e34d192c335773a71bb63f9
+lib/question/simpleChoice/base.rb 37a67fc12adf1d42e640f84228f9b4ba3087a9f8
+lib/question/trueOrFalse/version.rb 3220fe1c75492158597f988cb50449b5abc3900a
+lib/question/questionFather/base.rb b9ad9d29ee88b6bc27f5219dbe7ee58616781bed
+lib/question/simpleChoice/version.rb b128241eff921a1c51a71d4bcc416d487800fc74
+lib/question/questionFather/version.rb 3220fe1c75492158597f988cb50449b5abc3900a
