@@ -3,21 +3,16 @@
 [![Build Status](https://travis-ci.org/LPP1415/LPP_T_9.svg)](https://travis-ci.org/LPP1415/LPP_T_9)
 [![Coverage Status](https://coveralls.io/repos/LPP1415/LPP_T_9/badge.png)](https://coveralls.io/r/LPP1415/LPP_T_9)
 
-TODO: Write a gem description
+## Participantes
 
-## Installation
+1. Francisco José Alderete Gonzales
+2. Eduardo Jesús Díaz Dioniz
 
-Add this line to your application's Gemfile:
+## Definición de programación funcional
 
-    gem 'question-simpleChoice'
+1. En un sentido estricto, la programación funcional define un programa como una función matemática que convierte unas entradas en unas salidas, sin ningún estado interno y ningún efecto lateral.
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install question-simpleChoice
+2. La no existencia de estado interno (celdas de memoria en las que se guardan y se modifican valores, por ejemplo) y la ausencia de efectos laterales es una característica de la programación declarativa.
 
 ## Usage
 
